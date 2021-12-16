@@ -2592,6 +2592,10 @@ input, select, textarea {
 		}
 
 /* Tiles */
+	.albums_audio {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
 
 	.tiles {
 		display: -moz-flex;
