@@ -2595,7 +2595,7 @@ input, select, textarea {
 	.albums_audio {
 		width: 100%;
 		z-index: 10;
-		margin-top: -100px;
+		margin-top: -500px;
 	}
 
 	.tiles {
