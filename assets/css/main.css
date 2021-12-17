@@ -2593,7 +2593,7 @@ input, select, textarea {
 
 /* Tiles */
 	.albums_audio {
-		margin: 20 auto;
+		margin: 10 auto;
 		width: 100%;
 		z-index: 1000;
 	}
