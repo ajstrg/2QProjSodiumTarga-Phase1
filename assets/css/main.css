@@ -2598,6 +2598,13 @@ input, select, textarea {
 		z-index: 1000;
 	}
 
+	.albums_audio1 {
+		margin-top: -100px;
+		width: 100%;
+		z-index: 1000;
+		autoplay: true;
+	}
+
 	.tiles {
 		display: -moz-flex;
 		display: -webkit-flex;
