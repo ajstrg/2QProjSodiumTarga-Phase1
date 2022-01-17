@@ -3229,6 +3229,7 @@ input, select, textarea {
 
 	#footer h2:hover {
 		color: #e8c36d;
+		cursor: pointer
 	}
 	
 	#footer {
